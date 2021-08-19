@@ -1,0 +1,3 @@
+Name: Nacho
+Age: 30
+Favourite color: Orange
